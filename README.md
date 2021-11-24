@@ -1,5 +1,5 @@
 # Cellular-Automaton
-A simple Cellular-Automaton.
+A simple Cellular-Automaton using [Processing](https://processing.org/).
 
 Left Click: Add Point
 Right Click: Remove Point
